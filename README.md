@@ -1,0 +1,81 @@
+# BY THE BEAT – BY THE BEAT "Double Vision" Official Music Video
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Yeah
+Uh
+Ah-ah-ah-ah-ah
+Ooh yeah
+Yeah
+I'm a gritty kid, let the bass go
+Wanna get down? Gotta get low
+Up all night, satellite
+'Bout to blow like it's dynamite
+Lose yourself to the beat, now let it go
+Oh yeah, keep movin', don't quit, no
+We're gonna tear up the party
+Bop to the beat, everybody
+All in
+We go
+I feel the moment comin'
+All in
+We go
+Ready or not, we're locked in
+Woah da da da la da
+Got your heart racing now
+We're gonna make it loud now just bounce
+Let's go
+Dance in the light (Can't be stopped)
+All night (Can't be stopped)
+This is our time (Can't be stopped)
+Got that double vision when we collide (Can't be
+stopped)
+Blurred lines (Can't be stopped)
+So step inside (Can't be stopped)
+Are you ready, ready? Get ready, ready
+Get ready, ready
+Get ready, here we go (hey)
+Ca-can't be stopped
+Ca-can't be stopped
+Ca-can't be stopped (ey-ey-ey)
+Ca-can't be stopped (ey-ey-ey)
+Ready, here we go
+Stay with me
+And feel our heartbeats start to sync
+Yeah just move
+That's how we do-o-o
+All in
+We go
+I feel the moment comin'
+All in
+We go
+Ready or not, we're locked in
+Woah da da da la da
+Got your heart racing now
+We're gonna make it loud now just bounce
+Let's go
+We're losing control
+Go crazy with us now
+So free your mind up in this place like
+Na-na-na-na-na
+Yeah it's a wild ride
+So hold on tight
+Don't fight it
+Let the music take over you
+Dance in the light (Can't be stopped)
+All night (Can't be stopped)
+This is our time (Can't be stopped)
+Got that double vision when we collide (Can't be
+stopped)
+Blurred lines (Can't be stopped)
+So step inside (Can't be stopped)
+Are you ready, ready? Get ready, ready
+Get ready, ready
+Get ready, here we go (hey)
+Ca-can't be stopped
+Ca-can't be stopped
+Ca-can't be stopped (ey-ey-ey)
+Ca-can't be stopped (ey-ey-ey)
+Ready, here we go
+```
