@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "BY THE BEAT \"Double Vision\" Official Music Video",
+  "base_artist": "BY THE BEAT",
+  "createdAt": "2026-03-31T06:43:19.399446Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Double Vision",
+      "artist": "Vivian Girls",
+      "has_synced": true,
+      "path": "select/01_Double_Vision_Vivian_Girls.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Double Vision",
+      "artist": "3OH!3",
+      "has_synced": false,
+      "path": "select/02_Double_Vision_3OH!3.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Double Vision",
+      "artist": "Foreigner",
+      "has_synced": true,
+      "path": "select/03_Double_Vision_Foreigner.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Double Vision (2008 Remaster)",
+      "artist": "Foreigner",
+      "has_synced": true,
+      "path": "select/04_Double_Vision_(2008_Remaster)_Foreigner.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Double Vision - Re-Recorded 2011",
+      "artist": "Foreigner",
+      "has_synced": true,
+      "path": "select/05_Double_Vision_-_Re-Recorded_2011_Foreigner.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Double Vision (Re-Recorded 2011)",
+      "artist": "Foreigner",
+      "has_synced": true,
+      "path": "select/06_Double_Vision_(Re-Recorded_2011)_Foreigner.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Double Vision",
+      "artist": "Foreigner",
+      "has_synced": false,
+      "path": "select/07_Double_Vision_Foreigner.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Double Vision",
+      "artist": "Rory Gallagher",
+      "has_synced": false,
+      "path": "select/08_Double_Vision_Rory_Gallagher.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Double Vision",
+      "artist": "BY THE BEAT",
+      "has_synced": false,
+      "path": "select/pl_01_Double_Vision_BY_THE_BEAT.txt"
+    }
+  ]
+}
